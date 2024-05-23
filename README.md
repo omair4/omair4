@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omair4
-- 👀 I’m interested in web develpoment
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any Mern project
+- 👀 Full Stack Developer working for RIT Services GmbH
+- 🌱 Working on Node, FastAPI and React.
+- 💞️ I’m looking to collaborate on any Web project.
 - 📫 How to reach me omairhasan17@gmail.com
 
 <!---
